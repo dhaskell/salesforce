@@ -2,7 +2,7 @@
 
 	class salesforce
 	{
-		// populating error properties.
+		// populating error properties
 		public $errors = array();
 		public $errorCount = 0;
 
