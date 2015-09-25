@@ -1,6 +1,6 @@
 # Salesforce PHP class
 
-**IGNORE - UNFINISHED REPO**
+***IGNORE - UNFINISHED REPO***
 
 This class was created to get around a specific problem that few/no other devs will probably face involving
 the Salesforce CMS platform. 
